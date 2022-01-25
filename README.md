@@ -6,15 +6,6 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> RUBY RAILS PHP C# JAVASCRIPT PYTHON </strong>
-</p>
-
-
-<p align="left">
-  💼 Ferramentas: <strong> HTML CSS SQL POSTGRESQL</strong>
-</p>
-
-<p align="left">
   <a href="https://www.linkedin.com/in/ccarllos-henrique/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ccarllos-henrique/" /></a>
 
