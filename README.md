@@ -1,19 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://tenor.com/view/png-gif-14008217.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="pingo pingo">
 
 <p align="left"> 
-  Olá querido usuário do github! está aqui meu <strong>perfil</strong>.<br>
-  Estou no estudo dessas linguagens junto a uma xícara de café.
+ - Eu me pergunto qual seria melhor, ter um alto salário ou maior tempo em uma empresa? Seria demais pedir os dois.
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ccarllos-henrique/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ccarllos-henrique/" /></a>
-
-  <a href="http://api.whatsapp.com/send?phone=13991018860" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?phone=13991018860"/></a>
-
-  <a href="https://www.facebook.com/CarllosHenryqui" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/CarllosHenryqui"/></a>
 
   <a href="https://www.instagram.com/ccarll0s_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ccarll0s_/"/></a>
