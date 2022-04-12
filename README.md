@@ -8,6 +8,6 @@
   <a href="https://www.linkedin.com/in/ccarllos-henrique/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ccarllos-henrique/" /></a>
 
-  <a href="https://www.instagram.com/ccarll0s_/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ccarll0s_/"/></a>
+  <a href="https://twitter.com/cCarlllos" alt="twitter">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/cCarlllos"></a>
 </p>
