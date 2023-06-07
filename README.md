@@ -3,10 +3,10 @@
 
 <h3 align="left">SOCIALS</h3>
 <p align="left">
-<a href="https://dev.to/https://carllospf.fly.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://carllospf.fly.dev/" height="30" width="40" /></a>
+<a href="https://carllospf.fly.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://carllospf.fly.dev/" height="30" width="40" /></a>
 <a href="https://twitter.com/ccarlllos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ccarlllos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ccarlos-henrique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ccarlos-henrique/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@constinitgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@constinitgi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ccarlos-henrique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ccarlos-henrique/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@constinitgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@constinitgi" height="30" width="40" /></a>
 <a href="https://discord.gg/ZcZseSeYvS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZcZseSeYvS" height="30" width="40" /></a>
 </p>
 <h3 align="left">Leng & Tools</h3>
